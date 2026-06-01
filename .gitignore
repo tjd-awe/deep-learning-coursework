@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pt
+*.pth
+*.zip
+datasets/
+runs/
+wandb/
